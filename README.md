@@ -10,7 +10,7 @@
   - 항만 자동화 연구
  
   - 
-메일주소 : https://josehan1234@gmail.com
+메일주소 : josehan1234@gmail.com
 <!---
 joesiheon496/joesiheon496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
