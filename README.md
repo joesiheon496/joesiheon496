@@ -9,6 +9,9 @@
 - 지에스아이 2024/01/15 - 재직중
   - 항만 자동화 연구
  
+- 한양대학교 전자공학부 CELOS 박사과정
+  - 센서 Fusion(Camera, Lidar) Representation
+ 
   - 
 메일주소 : josehan1234@gmail.com
 <!---
