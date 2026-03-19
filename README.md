@@ -34,17 +34,13 @@ AI Vision & NLP Researcher
 
 ## Projects
 
-### SensorFusion (`src/sensorfusion/`)
+### SensorFusion 
 
 Ouster OS1 LiDAR와 카메라 데이터를 융합하는 5단계 파이프라인 GUI 애플리케이션.
 
-### Landed Test Program (`GSI/landed_test_program/`)
+### Landed Test Program
 
-YOLOv8 모델을 이용한 컨테이너 착지(landed) 여부 판별 GUI 프로그램.
-
-- 동영상 프레임별 실시간 추론
-- 신뢰도 임계값 슬라이더, 시크바, LANDED/NOT LANDED 상태 표시
-
+컨테이너 착지(landed) 여부 판별 GUI 프로그램.
 
 ## Tech Stack
 
