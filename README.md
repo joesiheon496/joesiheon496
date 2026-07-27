@@ -38,7 +38,8 @@ Camera–LiDAR Sensor Fusion · Point Cloud Upsampling · Depth Estimation & 3D 
 ### 지에스아이 (GSI)
 `2024.01.15 ~ 재직중`
 
-- **항만 자동화** 연구 — 컨테이너 착지 감지, 자동 라벨링, Anti-Lift 등
+- **항만 자동화** 연구 — 컨테이너 착지 감지, 자동 라벨링 등
+- **Anti-Lift** — 크레인 하역 시 컨테이너와 함께 트럭 섀시가 들려 올라가는 상황 감지·방지
 
 ### 팀바이오
 `2023.03.10 ~ 2024.10.31`
@@ -80,20 +81,6 @@ Ouster OS1 LiDAR와 카메라 데이터를 융합하는 5단계 파이프라인 
 | **NLP** | HuggingFace Transformers |
 | **Scientific** | NumPy, SciPy |
 | **Frontend** | React |
-
-## Getting Started
-
-```bash
-# SensorFusion
-cd src/sensorfusion
-pip install -r requirements.txt
-python main.py
-
-# Landed Test Program
-cd GSI/landed_test_program
-pip install -r requirements.txt
-python landed_detection.py
-```
 
 ---
 
