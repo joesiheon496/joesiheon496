@@ -31,6 +31,7 @@ AI Vision & NLP Researcher
 `2026.02.11 ~ 재학중`
 
 - **Sensor Fusion** (Camera + LiDAR) Representation 연구
+- Point cloud upsampling
 
 ---
 
