@@ -3,7 +3,7 @@
 AI Vision & NLP Researcher
 
 [![Gmail](https://img.shields.io/badge/Gmail-josehan1234%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josehan1234@gmail.com)
-
+[![github[(https://joesiheon496.github.io/)][mailto:joesiheon496/github.io]
 ---
 
 ## Career
